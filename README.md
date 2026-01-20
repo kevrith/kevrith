@@ -192,26 +192,31 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Contribution Snake Animation -->
-<!-- NOTE: Snake will appear after you push this repo to GitHub and run the Actions workflow -->
-<!-- The workflow creates an 'output' branch with the snake SVG -->
+<!-- GitHub Activity Graph - Static visualization -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevrith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1b27&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+
+<br/>
+
+<!--
+===========================================
+SNAKE ANIMATION (ENABLE AFTER BILLING FIX)
+===========================================
+Uncomment the code below once GitHub Actions is working:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<br/><br/>
+Then run the GitHub Action: Actions > Generate Snake Animation > Run workflow
+===========================================
+-->
 
-<!-- Skyline 3D View - Alternative visualization -->
+<!-- Skyline 3D View -->
 <a href="https://skyline.github.com/kevrith/2024" target="_blank">
 <img src="https://img.shields.io/badge/View%20My-GitHub%20Skyline%203D-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
-
-<br/><br/>
-
-<!-- Metrics using github-readme-stats activity -->
-<img src="https://github-readme-stats.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats"/>
 
 </div>
 

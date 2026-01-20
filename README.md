@@ -120,9 +120,9 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- Streak Stats - Using streak-stats.demolab.com (more reliable) -->
+<!-- Streak Stats -->
 <a href="https://github.com/kevrith">
-<img src="https://streak-stats.demolab.com/?user=kevrith&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=kevrith&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
@@ -162,12 +162,8 @@ me.say_hi()
 
 <div align="center">
 
-<!-- GitHub Trophies - Using alternate reliable endpoint -->
-<img src="https://github-profile-trophy.vercel.app/?username=kevrith&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-<!-- Backup Trophy Display if above fails -->
-<br/>
-<img src="https://github-trophies.vercel.app/?username=kevrith&theme=onestar&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies Backup"/>
+<!-- GitHub Trophies - Dark theme for visibility -->
+<img src="https://github-profile-trophy.vercel.app/?username=kevrith&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
 
 </div>
 

@@ -7,7 +7,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,25:0052cc,50:5c16c5,75:9945ff,100:ff00ff&height=300&section=header&text=KEVRITH&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Python%20Architect%20|%20API%20Engineer&descAlignY=55&descAlign=50&descSize=20&stroke=00d9ff&strokeWidth=2)
 
 <!-- Typing Animation - Increased height for visibility -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Building+Scalable+Backend+Systems;Crafting+RESTful+APIs+with+Python+%26+Flask;Transforming+Ideas+into+Production+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=70&lines=Building+Scalable+Backend+Systems;Crafting+RESTful+APIs+with+Python+%26+Flask;Transforming+Ideas+into+Production+Code)](https://git.io/typing-svg)
 
 <br/>
 

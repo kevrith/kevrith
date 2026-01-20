@@ -279,8 +279,8 @@ Then run the GitHub Action: Actions > Generate Snake Animation > Run workflow
 
 </div>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=150&section=footer"/>
+<!-- Footer - Matching Cyberpunk/Tech Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,25:9945ff,50:5c16c5,75:0052cc,100:00d9ff&height=150&section=footer"/>
 
 <div align="center">
 

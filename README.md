@@ -162,8 +162,8 @@ me.say_hi()
 
 <div align="center">
 
-<!-- GitHub Trophies - Dark theme for visibility -->
-<img src="https://github-profile-trophy.vercel.app/?username=kevrith&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&row=2" alt="GitHub Trophies"/>
+<!-- GitHub Trophies - Using reliable mirror -->
+<img src="https://github-trophies.vercel.app/?username=kevrith&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 

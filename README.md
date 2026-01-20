@@ -120,9 +120,9 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- Streak Stats -->
+<!-- Streak Stats - Using streak-stats.demolab.com (more reliable) -->
 <a href="https://github.com/kevrith">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevrith&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=kevrith&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
@@ -162,8 +162,12 @@ me.say_hi()
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=kevrith&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<!-- GitHub Trophies - Using alternate reliable endpoint -->
+<img src="https://github-profile-trophy.vercel.app/?username=kevrith&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+<!-- Backup Trophy Display if above fails -->
+<br/>
+<img src="https://github-trophies.vercel.app/?username=kevrith&theme=onestar&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies Backup"/>
 
 </div>
 
@@ -192,12 +196,9 @@ me.say_hi()
 
 <div align="center">
 
-<!-- WakaTime Stats (if connected) -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kevrith&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="WakaTime Stats"/>
--->
-
-<!-- Contribution Snake -->
+<!-- Contribution Snake Animation -->
+<!-- NOTE: Snake will appear after you push this repo to GitHub and run the Actions workflow -->
+<!-- The workflow creates an 'output' branch with the snake SVG -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake.svg" />
@@ -206,8 +207,15 @@ me.say_hi()
 
 <br/><br/>
 
-<!-- 3D Contribution Calendar -->
-<img src="https://github-readme-3d-contrib.vercel.app/api?username=kevrith&theme=github-dark" alt="3D Contributions" width="100%"/>
+<!-- Skyline 3D View - Alternative visualization -->
+<a href="https://skyline.github.com/kevrith/2024" target="_blank">
+<img src="https://img.shields.io/badge/View%20My-GitHub%20Skyline%203D-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+</a>
+
+<br/><br/>
+
+<!-- Metrics using github-readme-stats activity -->
+<img src="https://github-readme-stats.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats"/>
 
 </div>
 

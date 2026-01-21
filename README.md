@@ -228,13 +228,29 @@ Then run the GitHub Action: Actions > Generate Snake Animation > Run workflow
 
 <div align="center">
 
-```text
-🔭 Currently Working On    →  Production-Ready Backend Systems
-🌱 Currently Learning      →  Advanced System Design & Microservices
-👯 Looking to Collaborate  →  Open Source Python Projects
-💬 Ask Me About           →  Python, Flask, REST APIs, Backend Architecture
-⚡ Fun Fact              →  I turn coffee into code ☕ → 💻
+<table>
+<tr>
+<td>
+
+```js
+const kevrith = {
+    currentlyWorkingOn: "Production-Ready Backend Systems",
+    learning: ["System Design", "Microservices", "Cloud Architecture"],
+    collaborateOn: "Open Source Python Projects",
+    askMeAbout: ["Python", "Flask", "REST APIs", "Backend Architecture"],
+    funFact: "I mass produce bugs then mass resolve them 🐛→✨"
+};
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🔭_Working_On-Backend_Systems-00d9ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🌱_Learning-System_Design-9945ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💬_Ask_About-Python_&_APIs-58a6ff?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 

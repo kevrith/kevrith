@@ -178,12 +178,12 @@ me.say_hi()
 <a href="https://github.com/kevrith/Premier-Hotel">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kevrith&repo=Premier-Hotel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Premier-Hotel"/>
 </a>
-<a href="https://github.com/kevrith/Portfolio-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevrith&repo=Portfolio-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Portfolio-app"/>
+<a href="https://github.com/kevrith/kastra-systems">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevrith&repo=kastra-systems&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="kastra-systems"/>
 </a>
 
-<a href="https://github.com/kevrith/late-show">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevrith&repo=late-show&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="late-show"/>
+<a href="https://github.com/kevrith/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevrith&repo=Portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Portfolio"/>
 </a>
 
 </div>

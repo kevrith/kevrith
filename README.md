@@ -17,10 +17,10 @@
 
 <br/><br/>
 
-<!-- Profile Stats - Live Data -->
+<!-- Profile Stats - Live Data (All Auto-Update) -->
 <img src="https://komarev.com/ghpvc/?username=kevrith&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=TOTAL+STARS" alt="Stars"/>
+<a href="https://github.com/kevrith?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=TOTAL%20STARS&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kevrith&labelColor=161b22&color=0d1117" alt="Stars"/></a>
 
 </div>
 
@@ -112,13 +112,11 @@ me.say_hi()
 
 <div align="center">
 
-<!-- GitHub Stats Cards - Row 1 -->
+<!-- GitHub Stats with Rank -->
 <a href="https://github.com/kevrith">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Kevrith's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="Kevrith's GitHub Stats"/>
 </a>
-<a href="https://github.com/kevrith">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevrith&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevrith&theme=github_dark" alt="Top Languages"/>
 
 <br/><br/>
 

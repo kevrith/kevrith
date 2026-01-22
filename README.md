@@ -114,7 +114,7 @@ me.say_hi()
 
 <!-- GitHub Stats with Rank -->
 <a href="https://github.com/kevrith">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="Kevrith's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Kevrith's GitHub Stats"/>
 </a>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevrith&theme=github_dark" alt="Top Languages"/>
 

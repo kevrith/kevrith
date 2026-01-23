@@ -20,7 +20,6 @@
 <!-- Profile Stats - Live Data (All Auto-Update) -->
 <img src="https://komarev.com/ghpvc/?username=kevrith&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS" alt="Followers"/>
-<a href="https://github.com/kevrith?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=TOTAL%20STARS&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kevrith&labelColor=161b22&color=0d1117" alt="Stars"/></a>
 
 </div>
 

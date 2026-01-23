@@ -13,7 +13,7 @@
 
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-kevrith-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kevrith)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/kevrith/Portfolio-app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/kevrith/Portfolio)
 
 <br/><br/>
 

@@ -22,13 +22,6 @@
 <img src="https://img.shields.io/github/followers/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=FOLLOWERS" alt="Followers"/>
 <a href="https://github.com/kevrith?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=TOTAL%20STARS&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kevrith&labelColor=161b22&color=0d1117" alt="Stars"/></a>
 
-<br/><br/>
-
-<!-- Profile Insights -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kevrith&query=$.public_repos&style=for-the-badge&color=0d1117&labelColor=161b22&label=TOTAL%20REPOS" alt="Total Repos"/>
-<img src="https://img.shields.io/github/languages/top/kevrith/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=TOP%20LANGUAGE" alt="Top Language"/>
-<img src="https://img.shields.io/github/repo-size/kevrith/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=MAIN%20REPO%20SIZE" alt="Main Repo Size"/>
-
 </div>
 
 ---

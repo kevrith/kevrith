@@ -25,9 +25,9 @@
 <br/><br/>
 
 <!-- Profile Insights -->
-<img src="https://img.shields.io/github/repo-count/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=TOTAL%20REPOS" alt="Total Repos"/>
-<img src="https://img.shields.io/github/commit-activity/m/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=MONTHLY%20COMMITS" alt="Monthly Commits"/>
-<img src="https://img.shields.io/github/languages/count/kevrith/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=LANGUAGES" alt="Languages"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kevrith&query=$.public_repos&style=for-the-badge&color=0d1117&labelColor=161b22&label=TOTAL%20REPOS" alt="Total Repos"/>
+<img src="https://img.shields.io/github/languages/top/kevrith/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=TOP%20LANGUAGE" alt="Top Language"/>
+<img src="https://img.shields.io/github/repo-size/kevrith/kevrith?style=for-the-badge&color=0d1117&labelColor=161b22&label=MAIN%20REPO%20SIZE" alt="Main Repo Size"/>
 
 </div>
 

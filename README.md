@@ -114,22 +114,24 @@ me.say_hi()
 
 <!-- GitHub Stats with Rank -->
 <a href="https://github.com/kevrith">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Kevrith's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="Kevrith's GitHub Stats"/>
 </a>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevrith&theme=github_dark" alt="Top Languages"/>
+<a href="https://github.com/kevrith">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevrith&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
 <a href="https://github.com/kevrith">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=kevrith&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=kevrith&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/kevrith">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevrith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevrith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </a>
 
 </div>
@@ -174,14 +176,14 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/kevrith/Premier-Hotel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevrith&repo=Premier-Hotel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Premier-Hotel"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kevrith&repo=Premier-Hotel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Premier-Hotel"/>
 </a>
 <a href="https://github.com/kevrith/kastra-systems">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevrith&repo=kastra-systems&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="kastra-systems"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kevrith&repo=kastra-systems&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="kastra-systems"/>
 </a>
-
+<br/><br/>
 <a href="https://github.com/kevrith/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kevrith&repo=Portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Portfolio"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kevrith&repo=Portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Portfolio"/>
 </a>
 
 </div>
@@ -193,7 +195,7 @@ me.say_hi()
 <div align="center">
 
 <!-- GitHub Activity Graph - Static visualization -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevrith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1b27&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevrith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
 
 <br/>
 

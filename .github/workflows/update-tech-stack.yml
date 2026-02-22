@@ -1,0 +1,104 @@
+name: Update Tech Stack
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update Tech Stack
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            
+            // Fetch all repos
+            const repos = await github.rest.repos.listForUser({
+              username: context.repo.owner,
+              per_page: 100
+            });
+            
+            // Get languages from all repos
+            const langSet = new Set();
+            for (const repo of repos.data) {
+              const langs = await github.rest.repos.listLanguages({
+                owner: context.repo.owner,
+                repo: repo.name
+              });
+              Object.keys(langs.data).forEach(lang => langSet.add(lang));
+            }
+            
+            // Map languages to tech stack icons
+            const techMap = {
+              'Python': { icon: 'python-icon.svg', name: 'Python' },
+              'TypeScript': { icon: 'ts-icon.svg', name: 'TypeScript' },
+              'JavaScript': { icon: 'js-icon.svg', name: 'JavaScript' },
+              'Java': { icon: 'java-icon.svg', name: 'Java' },
+              'C++': { icon: 'cpp-icon.svg', name: 'C++' },
+              'C': { icon: 'c-icon.svg', name: 'C' },
+              'Go': { icon: 'go-icon.svg', name: 'Go' },
+              'Rust': { icon: 'rust-icon.svg', name: 'Rust' },
+              'PHP': { icon: 'php-icon.svg', name: 'PHP' },
+              'Ruby': { icon: 'ruby-icon.svg', name: 'Ruby' },
+              'Swift': { icon: 'swift-icon.svg', name: 'Swift' },
+              'Kotlin': { icon: 'kotlin-icon.svg', name: 'Kotlin' },
+              'Dart': { icon: 'dart-icon.svg', name: 'Dart' },
+              'HTML': { icon: 'html5-icon.svg', name: 'HTML5' },
+              'CSS': { icon: 'css3-icon.svg', name: 'CSS3' }
+            };
+            
+            // Build tech stack HTML
+            let techHTML = '';
+            const langs = Array.from(langSet).filter(l => techMap[l]).slice(0, 6);
+            
+            for (const lang of langs) {
+              const tech = techMap[lang];
+              techHTML += `<td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/${tech.icon}" alt="${tech.name}" width="65" height="65" />
+            <br><strong>${tech.name}</strong>
+            </td>\n`;
+            }
+            
+            // Add React and REST API if JavaScript/TypeScript present
+            if (langSet.has('JavaScript') || langSet.has('TypeScript')) {
+              if (langs.length < 6) {
+                techHTML += `<td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+            <br><strong>React</strong>
+            </td>\n`;
+              }
+            }
+            
+            // Read README
+            let readme = fs.readFileSync('README.md', 'utf8');
+            
+            // Replace Core Technologies section
+            const startMarker = '### Core Technologies\n<table>\n<tr>\n';
+            const endMarker = '</tr>\n</table>';
+            
+            const start = readme.indexOf(startMarker);
+            const end = readme.indexOf(endMarker, start);
+            
+            if (start !== -1 && end !== -1) {
+              const before = readme.substring(0, start + startMarker.length);
+              const after = readme.substring(end);
+              readme = before + techHTML + after;
+              
+              fs.writeFileSync('README.md', readme);
+            }
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update tech stack"
+          git push

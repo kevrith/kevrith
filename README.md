@@ -199,21 +199,11 @@ me.say_hi()
 
 <br/>
 
-<!--
-===========================================
-SNAKE ANIMATION (ENABLE AFTER BILLING FIX)
-===========================================
-Uncomment the code below once GitHub Actions is working:
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-Then run the GitHub Action: Actions > Generate Snake Animation > Run workflow
-===========================================
--->
 
 <!-- Skyline 3D View -->
 <a href="https://skyline.github.com/kevrith/2024" target="_blank">

@@ -114,7 +114,7 @@ me.say_hi()
 
 <!-- GitHub Stats with Rank -->
 <a href="https://github.com/kevrith">
-<img height="180em" src="https://github-readme-stats-omega-inky-73.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="Kevrith's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-omega-inky-73.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=default" alt="Kevrith's GitHub Stats"/>
 </a>
 <a href="https://github.com/kevrith">
 <img height="180em" src="https://github-readme-stats-omega-inky-73.vercel.app/api/top-langs/?username=kevrith&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages"/>

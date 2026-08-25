@@ -114,10 +114,10 @@ me.say_hi()
 
 <!-- GitHub Stats with Rank -->
 <a href="https://github.com/kevrith">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="Kevrith's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-omega-inky-73.vercel.app/api?username=kevrith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="Kevrith's GitHub Stats"/>
 </a>
 <a href="https://github.com/kevrith">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevrith&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-omega-inky-73.vercel.app/api/top-langs/?username=kevrith&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -131,14 +131,14 @@ me.say_hi()
 
 <!-- Activity Graph -->
 <a href="https://github.com/kevrith">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevrith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+<img src="https://ghchart.rshah.org/58a6ff/kevrith" alt="Contribution Graph" width="90%"/>
 </a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"> Detailed Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Detailed Analytics
 
 <div align="center">
 
@@ -175,15 +175,15 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/kevrith/Premier-Hotel">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kevrith&repo=Premier-Hotel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Premier-Hotel"/>
+<a href="https://github.com/kevrith/premier-hotel-app">
+<img src="https://github-readme-stats-omega-inky-73.vercel.app/api/pin/?username=kevrith&repo=premier-hotel-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="premier-hotel-app"/>
 </a>
 <a href="https://github.com/kevrith/kastra-systems">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kevrith&repo=kastra-systems&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="kastra-systems"/>
+<img src="https://github-readme-stats-omega-inky-73.vercel.app/api/pin/?username=kevrith&repo=kastra-systems&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="kastra-systems"/>
 </a>
 <br/><br/>
 <a href="https://github.com/kevrith/Portfolio">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=kevrith&repo=Portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Portfolio"/>
+<img src="https://github-readme-stats-omega-inky-73.vercel.app/api/pin/?username=kevrith&repo=Portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Portfolio"/>
 </a>
 
 </div>
@@ -193,11 +193,6 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Metrics & Insights
 
 <div align="center">
-
-<!-- GitHub Activity Graph - Static visualization -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevrith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevrith/kevrith/output/github-contribution-grid-snake-dark.svg" />
